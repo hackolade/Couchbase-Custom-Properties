@@ -12,6 +12,5 @@
             "target": "COUCHBASE"
         }
     },
-    "description": "Hackolade plugin for Couchbase models to allow custom properties",
-    "disabled": false
+    "description": "Hackolade plugin for Couchbase models to allow custom properties"
 }
